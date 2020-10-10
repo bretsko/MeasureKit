@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Base",
+        "repositoryURL": "https://github.com/bretsko/Base",
+        "state": {
+          "branch": null,
+          "revision": "52d8599a0757c5be2fa8a560dd148ffc95a70c80",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "CwlCatchException",
+        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "state": {
+          "branch": null,
+          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "CwlPreconditionTesting",
+        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+        "state": {
+          "branch": null,
+          "revision": "02b7a39a99c4da27abe03cab2053a9034379639f",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "LocalBase",
+        "repositoryURL": "https://github.com/bretsko/LocalBase",
+        "state": {
+          "branch": null,
+          "revision": "dd197700b56317e4c8f09cc966ddf5696c33ff50",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/bretsko/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "906c98b445c99a99b388c9a51d033988341809c9",
+          "version": "8.0.5"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/bretsko/Quick",
+        "state": {
+          "branch": null,
+          "revision": "8e6733e5e959c86cfdfff69f31928d1f6806d702",
+          "version": "2.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
