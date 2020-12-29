@@ -1,8 +1,10 @@
 # MeasureKit
 
-Measure models, supporting translation to different languages
+Measure models, supporting translation to different languages.   
 
-Currently supported measures: angle, length, volume, mass, temperature, information storage, duration
+Currently supported measures: angle, length, volume, mass, temperature, information storage, duration.   
+
+See details in wiki. 
 
 
 [![Swift5 compatible][Swift5Badge]][Swift5Link]
